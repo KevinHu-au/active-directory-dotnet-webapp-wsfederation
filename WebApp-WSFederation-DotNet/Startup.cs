@@ -23,6 +23,7 @@ using Owin;
 
 namespace WebApp_WSFederation_DotNet
 {
+
     public partial class Startup
     {
         public void Configuration(IAppBuilder app)
